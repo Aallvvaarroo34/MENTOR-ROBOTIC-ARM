@@ -4,4 +4,4 @@ Se ruega, poner a disposición el código fuente completo de la versión modific
 
 Espero que esta información les sirva de ayuda.
 
-AHL, 2024.
+Álvaro Herrero Lobo, 2024.
